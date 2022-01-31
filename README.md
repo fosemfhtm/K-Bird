@@ -1,16 +1,25 @@
-# untitled
+# K-Bird
 
-A new Flutter project.
+카이스트의 배드민턴 동아리 K-Bird를 위한 어플리케이션
 
-## Getting Started
+## 기능
 
-This project is a starting point for a Flutter application.
+### 카카오톡 로그인
+카카오톡을 이용해 로그인을 한다.
 
-A few resources to get you started if this is your first Flutter project:
+### 레이팅
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+#### 정모
+매번 정모의 결과를 반영해 레이팅을 업데이트 한다.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+#### 친선 경기
+n명 이상이 모여 배드민턴을 치는 경우도 경기 결과를 레이팅에 반영할 수 있게 한다.
+
+### 대진표 자동 작성 & 경기 결과 기록 
+정모나 친선 경기등의 대진표를 자동으로 작성해주는 프로그램.
+대진표 창에서 한 쪽이 경기 결과를 입력하고 나머지가 수락을 누르면 경기 결과가 저장됨.
+
+
+
+
+
